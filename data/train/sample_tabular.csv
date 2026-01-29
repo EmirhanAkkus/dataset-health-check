@@ -1,0 +1,11 @@
+age,gender,income,city,target
+22,M,1800,Amsterdam,0
+25,F,2000,Amsterdam,0
+27,M,2200,Rotterdam,0
+29,F,2100,Amsterdam,0
+31,M,2300,Utrecht,0
+35,F,2400,Amsterdam,0
+38,M,2600,Rotterdam,0
+42,F,2800,Amsterdam,0
+45,M,3000,Utrecht,0
+52,F,3200,Amsterdam,1
